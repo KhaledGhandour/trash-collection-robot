@@ -94,10 +94,10 @@ The system uses topics for communication and services for battery status checks.
 
 ## Future Improvements
 
-✅ Replace mock camera input with real OpenCV processing
-✅ Add obstacle avoidance
-✅ Implement battery recharge behavior
-✅ Integrate with real hardware (Raspberry Pi/Arduino)
+  ✅ Replace mock camera input with real OpenCV processing
+  ✅ Add obstacle avoidance
+  ✅ Implement battery recharge behavior
+  ✅ Integrate with real hardware (Raspberry Pi/Arduino)
 
 
 
