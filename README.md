@@ -8,11 +8,11 @@
 
 This ROS2 (Jazzy) project simulates a trash detection robot with three main packages:
 
-    **perception** – Processes mock camera input to detect trash.
+ **perception** – Processes mock camera input to detect trash.
 
-    **brain** – Decides robot movement based on detections and monitors battery.
+ **brain** – Decides robot movement based on detections and monitors battery.
 
-    **actuator** – Executes movement commands from the brain.
+ **actuator** – Executes movement commands from the brain.
 
 The system uses topics for communication and services for battery status checks.
 ## Packages & Nodes
@@ -94,10 +94,10 @@ The system uses topics for communication and services for battery status checks.
 
 ## Future Improvements:
 
-  **✅** Replace mock camera input with real OpenCV processing
-  **✅** Add obstacle avoidance
-  **✅** Implement battery recharge behavior
-  **✅** Integrate with real hardware (Raspberry Pi/Arduino)
+     ✅ Replace mock camera input with real OpenCV processing
+     ✅ Add obstacle avoidance
+     ✅ Implement battery recharge behavior
+     ✅ Integrate with real hardware (Raspberry Pi/Arduino)
 
 
 
