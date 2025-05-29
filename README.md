@@ -31,7 +31,7 @@
 
 **Email:** khaled.essam.200230@gmail.com
 
-**Project Link:** https://github.com/KhaledGhandour/skid_steer_robot.git
+**Project Link:** (https://github.com/KhaledGhandour/trash-collection-robot.git)
 
 
 
