@@ -69,7 +69,7 @@ The system uses topics for communication and services for battery status checks.
 
 
 ## Installation & Setup
-### Prerequisites
+### Prerequisites:
 
    **1:** ROS2 Jazzy
 
@@ -96,8 +96,8 @@ The system uses topics for communication and services for battery status checks.
 
   **✅** Replace mock camera input with real OpenCV processing
   **✅** Add obstacle avoidance
-  ✅ Implement battery recharge behavior
-  ✅ Integrate with real hardware (Raspberry Pi/Arduino)
+  **✅** Implement battery recharge behavior
+  **✅** Integrate with real hardware (Raspberry Pi/Arduino)
 
 
 
